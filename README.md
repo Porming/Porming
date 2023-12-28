@@ -10,14 +10,14 @@ My name is Porming UNG, As a friendly and dedicated software developer, I bring 
 You can find me or contact me at 👇
 
 <div align="center">
-  <a href="https://www.github.com/cromega08" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Porming" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=for-the-badge&logoWidth=50" alt="Github">
   </a>
   <a href="https://www.facebook.com/bao.ming.940/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Facebook-0A66C2?logo=facebook&logoColor=white&style=for-the-badge&logoWidth=50" alt="Facebook">
   </a>
-    <a href="https://www.facebook.com/bao.ming.940/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Facebook-cd486b?logo=instagram&logoColor=white&style=for-the-badge&logoWidth=50" alt="Facebook">
+    <a href="https://www.instagram.com/por._.ming?igsh=MXRycXNja2NrbHI4Yg%3D%3D&utm_source=qr" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Facebook-cd486b?logo=instagram&logoColor=white&style=for-the-badge&logoWidth=50" alt="instagram">
   </a>
   <br/>
     <img src="https://img.shields.io/badge/-mingpor1607@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge&logoWidth=50" alt="Gmail">
