@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"  />
 </div>
-## About Me
+# About Me
 
 My name is Porming UNG, As a friendly and dedicated software developer, I bring a passion for continuous self-learning and problem-solving to dynamic environments. With a solid foundation in collaborative settings, I excel in scrum-sprint meetings, engage in pair programming to dissect complex solutions, and conduct comprehensive code reviews to refine my work and learn from others. I thrive on using Agile methodology to solve problems and ensure efficient, high-quality  outcomes in every project I undertake
 
